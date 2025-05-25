@@ -1,0 +1,7 @@
+Open Chrome and press F12 to open DevTools.
+
+Click the device icon (top left in DevTools) to see how your page looks on phones and tablets.
+
+Use the Elements tab to click on parts of the page and test or change CSS live.
+
+Go to the Network tab and refresh the page – check if your CSS file (like styles.css) is loading without errors.

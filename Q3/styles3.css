@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    color: navy;
+}
+
+#mainHeader {
+    background-color: #eee;
+    padding: 20px;
+}
+
+
+.eventCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+h3, p {
+    font-family: Arial;
+}

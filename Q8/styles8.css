@@ -1,0 +1,18 @@
+.eventCard {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 15px;
+}
+
+input:focus {
+    outline: 2px solid blue;
+}
+
+/* Comparison */
+.hidden {
+    visibility: hidden;
+}
+
+.none {
+    display: none;
+}
